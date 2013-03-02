@@ -1,0 +1,1 @@
+A cool animated webpage with McDowell family photos.  Thanks to Noah Maignan from NSS for the framework for this.
